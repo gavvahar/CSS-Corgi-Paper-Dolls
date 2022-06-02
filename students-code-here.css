@@ -13,3 +13,7 @@
     top: 45px;
     left: 65px;
 }
+.luna {
+    position: sticky;
+    left: 0;
+}
